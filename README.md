@@ -1,4 +1,7 @@
 
+![1200px-Computer-screen-code-glitch-animation-gif-background-free](https://user-images.githubusercontent.com/87136151/133306383-2a39cc71-72cc-449d-beb1-95ab0e54aab9.gif)
+
+
 
 <h1 align="center">Hi 👋, I'm Caelum</h1>
 <h3 align="center">I am a physics student from Turkey and a passionate ios developer for 3+ years.</h3>
