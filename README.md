@@ -127,6 +127,20 @@ Current features
 	•	 Translating text
 	•	 Voice recognition
 	•	 Conversation page
+	
+	
+	
+	
+
+
+
+<img width="488" alt="Ekran Resmi 2022-07-17 16 57 00" src="https://user-images.githubusercontent.com/87136151/179401750-247ae350-2df6-4055-afe7-856e3a8d942c.png">
+ - Pdfcreator Pdf creation and reading application 
+ - All kinds of pdf can be created and read 
+ - Can be saved on the device 
+ - Has dark mode support
+<img width="455" alt="Ekran Resmi 2022-07-17 16 59 52" src="https://user-images.githubusercontent.com/87136151/179401860-6c7c35e8-cfb8-4011-885e-0e5fc34eec77.png">
+
 
 
 
