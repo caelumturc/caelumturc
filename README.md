@@ -9,20 +9,20 @@
 - 🌱 I’m currently learning **Arkit,Kotlin,Tensorflow,Arcore**
 - ⚡ Fun fact **i love gifs as you can see in the profile**
 
-- 💬 Ask me about **Swift,Xcode,Firebase,Parse,UIKit,CoreML,Mapkit,MVVM**
+- 💬 Ask me about **Swift,Android,Xcode,Firebase,Parse,UIKit,CoreML,Mapkit,MVVM,Flutter,Dart,Kotlin,python,react native,Json,**
 
 ![Ekran Alfghhjghkjöhgghhgjhhggfgghhyfghgghıntısı](https://user-images.githubusercontent.com/87136151/133639018-7cad47e7-f664-43b0-958b-ef1ea7b6a358.PNG)
 <img width="386" alt="Ekran Resmi 2022-07-15 15 02 27" src="https://user-images.githubusercontent.com/87136151/179219250-5593f3af-5c2e-4bfb-93e9-df6b22fda720.png">
-- Hoslo
+- **Hoslo**
 - An app focused on challenges and video
-1-Facebook Log In
-2-Google Sing In.
-3-Notifications
-4-Video posts
-5-text video location text messages
-7-Search for Users
-9-User Profile
-10-Dark Mode Support
+- Facebook Log In
+- Google Sing In.
+- Notifications
+- Video posts
+- text video location text messages
+- Search for Users
+- User Profile
+- Dark Mode Support
 
 
 Xcode 10
@@ -33,7 +33,7 @@ firebase
 
 <img width="784" alt="Ekran Resmi 2022-07-15 15 14 23" src="https://user-images.githubusercontent.com/87136151/179220850-c5e420ad-a298-4299-90e4-1eafac4c76af.png">
 
-- Social Waves
+- **Social Waves**
 - It is an event organizer application.
 - There is a map screen in the application, events are seen on the map and directions are taken
 - Users can choose the event time, venue and people who can enter
@@ -49,51 +49,53 @@ firebase
 
 
 <img width="607" alt="Ekran Resmi 2022-07-15 15 22 31" src="https://user-images.githubusercontent.com/87136151/179222068-11a82d13-dd3d-4344-8795-2ee861321b40.png">
-- Groupchat app a social media app with group messaging
-Functionality
-	•	Real-time chat
-	•	User online indicator
-	•	Sending text messages
-	•	Unlimited length of text messages
-	•	Sending image messages
-	•	Sending video messages
-	•	Sending audio messages
-	•	Typing indicator
-	•	Messages status indicator
-	•	Delete messages
-	•	Reply to / Forward messages
-	•	Custom chat design
-	•	Chat pagination
-	•	Friend network
-	•	Locate friends on a map (if they have disabled an anonymous mode)
-	•	Custom map design
-	•	Change email / password
-	•	Change profile image
+
+- **Groupchat app a social media app with group messaging**
+- Realtime chat
+- User online indicator
+- Sending text messages
+- Unlimited length of text messages
+- Sending image messages
+- Sending video messages
+- Sending audio messages
+- Typing indicator
+- Messages status indicator
+- Delete messages
+- Reply to / Forward messages
+- Custom chat design
+- Chat pagination
+- Friend network
+- Locate friends on a map (if they have disabled an anonymous mode)
+- Custom map design
+- Change email / password
+- Change profile image
 
 <img width="618" alt="Ekran Resmi 2022-07-13 14 53 37" src="https://user-images.githubusercontent.com/87136151/179222443-e3fa278e-0619-4eee-b164-44f1a50eaa6d.png">
 
 
 
 <img width="637" alt="Ekran Resmi 2022-07-15 15 33 57" src="https://user-images.githubusercontent.com/87136151/179223893-848d5347-eacd-4415-b97a-04b806bffe8f.png">
-- swift recipe app
-trend
-favorite
-editor's choice
-taste
-recipe with features
-app
+
+- **swift recipe app**
+- trend
+- favorite
+- editor's choice
+- taste
+- recipe with features
+
 
 <img width="324" alt="Ekran Resmi 2022-07-13 16 58 05" src="https://user-images.githubusercontent.com/87136151/179224402-992f69d7-1ba6-41cc-850f-c043f10550b9.png">
 
 <img width="616" alt="Ekran Resmi 2022-07-15 15 39 28" src="https://user-images.githubusercontent.com/87136151/179224756-b7de7f75-2976-460d-b2ba-deb8602599d9.png">
-- luna
-An application that records the number of cars and people it sees on the road and measures how much an ad is shown
-Prototype designed to be a more advanced version of Uber
--the distance traveled by the device is calculated
--users open profile
-Artificial intelligence records the number of people and vehicles
-Thus, it is measured how many people are shown advertisements while a vehicle is traveling on the road.
-And the driver is paid
+
+- **Luna**
+- An application that records the number of cars and people it sees on the road and measures how much an ad is shown
+- Prototype designed to be a more advanced version of Uber
+- the distance traveled by the device is calculated
+- users open profile
+- Artificial intelligence records the number of people and vehicles Thus
+- it is measured how many people are shown advertisements while a vehicle is traveling on the road.
+- And the driver is paid
 
 <img width="576" alt="Ekran Resmi 2022-07-13 15 20 23" src="https://user-images.githubusercontent.com/87136151/179225231-f70eb1b9-0377-4b63-bb38-10922b9ec8bf.png">
 
@@ -103,22 +105,22 @@ And the driver is paid
 Spontain is a geography-based social media app made to explore nearby places
 
 
-Features
-1-Facebook Log In
-2-Google Sing In.
-3-Photo Messages
-4-Video Messages
-5-Text Messages
-6-Location Messages
-7-Search for Users
-8-Geotag
-9-User Profile
-10-Dark Mode Support
-11-Localization
-12-Photo Post Sharing
-13-Comments
-14-Like
-15-Categories
+**Features**
+- Facebook Log In
+- Google Sing In.
+- Photo Messages
+- Video Messages
+- Text Messages
+- Location Messages
+- Search for Users
+- Geotag
+- User Profile
+- Dark Mode Support
+- Localization
+- Photo Post Sharing
+- Comments
+- Like
+- Categories
 
 <img width="798" alt="Ekran Resmi 2022-07-12 15 16 32" src="https://user-images.githubusercontent.com/87136151/179226570-842cce9a-3967-4529-b852-dfb25f35986f.png">
 Current features
@@ -135,6 +137,7 @@ Current features
 
 
 <img width="488" alt="Ekran Resmi 2022-07-17 16 57 00" src="https://user-images.githubusercontent.com/87136151/179401750-247ae350-2df6-4055-afe7-856e3a8d942c.png">
+
  - Pdfcreator Pdf creation and reading application 
  - All kinds of pdf can be created and read 
  - Can be saved on the device 
